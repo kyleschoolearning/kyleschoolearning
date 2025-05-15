@@ -15,3 +15,4 @@ https://79abeb0d-c40a-4d08-a334-589805dda403-00-4a27ulfmqayl.worf.replit.dev/
 
 
    if blocked try http://localhost:8080/ not as cool loking but functions more
+secondary for above https://liberal-enabled-dove.ngrok-free.app/
